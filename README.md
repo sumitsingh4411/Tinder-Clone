@@ -1,3 +1,16 @@
+# Tinder-clone
+### [Live Site](https://tinderclonez.herokuapp.com/)
+
+![tinder](https://i.ibb.co/BZgB3t1/Capture10.png)
+
+## Introduction
+This is a code repository for the corresponding tinder clone . 
+
+In this repository, we're going to build a fully functional tinder application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,resposive design with flexbox and card design with npm package etc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
