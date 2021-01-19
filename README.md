@@ -1,7 +1,7 @@
 # Tinder-clone
 ### [Live Site](https://tinderclonez.herokuapp.com/)
 
-![tinder](https://i.ibb.co/BZgB3t1/Capture10.png)
+![tinder](https://i.ibb.co/GCXsHMf/Capture25.png)
 
 ## Introduction
 This is a code repository for the corresponding tinder clone . 
